@@ -1,4 +1,4 @@
-# Air.
+# Example of README.md
 ## So far, this readme file contains only markdown formatting tests.
 
 *Really.*
