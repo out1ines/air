@@ -1,13 +1,13 @@
 # Air.
-## So far, this contains no more and no less, than useless information.  
+## So far, this readme file contains only markdown formatting tests.
 
 *Really.*
 
 **Really.**
 
 For example:
-* there is a new way to format everything
-* apart from that, nothing more
+* here is an item in a list.
+* this is another.
 
 let's redirect to a [wikipedia article](https://en.wikipedia.org/wiki/Air_(disambiguation))
 
